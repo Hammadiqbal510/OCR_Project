@@ -27,7 +27,7 @@ in this model we have used EasyOcr technique to recognise text in the National i
 You have to install Python first then run the command mentioned bellow.
 
 ```bash
-  git clone https://github.com/saleemullah7654321/OCR.git
+  git clone https://github.com/Hammadiqbal510/OCR_Project.git
   cd OCR_MODELS
 ```
 Now you should install requirements.txt file to install dependencies
