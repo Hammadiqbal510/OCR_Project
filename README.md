@@ -11,7 +11,7 @@ in this model we have used EasyOcr technique to recognise text in the National i
 
 ## Authors
 
-- [@Hammad iqbal]
+- [@Hammad iqbal] (https://github.com/Hammadiqbal510/OCR_Project)
 
 
 
