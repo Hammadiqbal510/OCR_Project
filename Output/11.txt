@@ -1,0 +1,10 @@
+================data from image================
+['PAKISTAN', 'National Identity', 'Card', 'ISLAMIC REPUBLIC DF PAKISTAN', 'Name', 'Abu Zar', 'Father Name', 'Ghulam Abbas', 'Gender', 'Country of Stay', 'M', 'Pakistan', 'Identity Number', 'Date o1 Birth', '35402-9432638-3', '14.04.1995', 'Date 0t Issue', 'Date pl Expiry', '19.01.2017', '19.01.2027', 'Holder', '5', 'Sicnature']
+================extracted from data================
+('Name', 'Abu Zar')
+('Father Name', 'Ghulam Abbas')
+('Gender', 'M')
+('Identity Number', '35402-9432638-3')
+('Date Of Birth', '14.04.1995')
+('Date Of Issue', '19.01.2017')
+('Date Of Expiry', '19.01.2027')

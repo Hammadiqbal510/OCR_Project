@@ -1,0 +1,10 @@
+================data from image================
+['PAKISTAN', 'National', 'Card', 'Mic Reduul ic Or', 'Njme', 'Fizza Hussain', 'Father Name', 'Syed', 'Hussain Shah', '"', 'L', 'Gender', 'Country ol Stay', '0', 'F', 'Pakistan', 'Identity Number', 'Date of Birth', '13504-6280033-6', '28.12.1991', 'Date of Issue', 'Date of Expiry', 'Fva #ue', '12.02.2019', '12.02.2029', 'Holder $ Signature', 'Identity', 'Zarrar']
+================extracted from data================
+('Name', 'Fizza Hussain')
+('Father Name', 'Syed')
+('Gender', 'F')
+('Identity Number', '13504-6280033-6')
+('Date Of Birth', '28.12.1991')
+('Date Of Issue', '12.02.2019')
+('Date Of Expiry', '12.02.2029')

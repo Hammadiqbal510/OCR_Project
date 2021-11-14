@@ -1,0 +1,10 @@
+================data from image================
+['PAKISTAN', 'National Identity Card', 'ALPUILC 0F pakit', 'Name', 'Lakistan Khan', 'Ubu_', 'Father Name', 'Pakistan Khan', 'Ububi', 'Gerider', 'Country of Stay', 'M', 'Pakistan', 'Identty Number', 'Date 0f Birth', '17301-1226189-5', '01,01.1972', 'Date 0l Issue', 'Date 0f Expiry', '15.06,2018', '15.06.2028', 'Holder', 'Signsfute', 'olibui']
+================extracted from data================
+('Name', 'Lakistan Khan')
+('Father Name', 'Pakistan Khan')
+('Gender', 'M')
+('Identity Number', '17301-1226189-5')
+('Date Of Birth', '01,01.1972')
+('Date Of Issue', '15.06,2018')
+('Date Of Expiry', '15.06.2028')

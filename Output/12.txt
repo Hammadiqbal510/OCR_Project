@@ -1,0 +1,10 @@
+================data from image================
+['PAKISTAN', 'National Identity Card', 'islaMIC Republic Of PAKiSTAN', 'Name', 'Tahira', 'Father Name', 'Ghulam Mustafa', 'W', 'Gender', 'Country of', 'F', 'Pakistan', 'Identity Number', 'Date of Birth', '42101-8694527-2', '01.01.1991', 'Date of Issue', 'Date 0l Expiry', '31.05.2013', '31.05.2020', 'Holder', 'Signature', 'Stay']
+================extracted from data================
+('Name', 'Tahira')
+('Father Name', 'Ghulam Mustafa')
+('Gender', 'F')
+('Identity Number', '42101-8694527-2')
+('Date Of Birth', '01.01.1991')
+('Date Of Issue', '31.05.2013')
+('Date Of Expiry', '31.05.2020')

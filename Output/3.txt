@@ -1,0 +1,10 @@
+================data from image================
+['PAKISTAN', 'National Identity Card', 'ISLAMIC REPUDLIC', 'pANES', 'Name', 'Alam', 'Father Name', 'Muhammad', 'Gender', 'Country of Stay', 'Saudi Arabla', 'Identity Number', 'Date of Birth', '15609-0979259-9', '09.09.1999', 'Date of Issue', 'Date of Expiry', '29.09.2020', '29.09.2029', 'Holder', 'Signature']
+================extracted from data================
+('Name', 'Alam')
+('Father Name', 'Muhammad')
+('Gender', '-')
+('Identity Number', '15609-0979259-9')
+('Date Of Birth', '09.09.1999')
+('Date Of Issue', '29.09.2020')
+('Date Of Expiry', '29.09.2029')

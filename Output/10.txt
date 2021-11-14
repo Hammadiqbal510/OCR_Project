@@ -1,0 +1,10 @@
+================data from image================
+['PAKISTAN', 'National Identity Card', 'lvic', 'Keme', 'Nadia Akhtar', 'jel', 'Father "ame', 'Akhtar Hussain', '21', 'Gender', 'Country of Stay', 'F', 'Pakistan', 'Identity Number', 'Date of Birth', '36572-6324446-5', '12-4-1990', 'Date 0f Issue', 'Place of Blrth', 'Nladja', '19.10-2015', 'Narowal', 'Holder $ Signature', '36']
+================extracted from data================
+('Name', 'jel')
+('Father Name', 'Akhtar Hussain')
+('Gender', 'F')
+('Identity Number', '36572-6324446-5')
+('Date Of Birth', '-')
+('Date Of Issue', '-')
+('Date Of Expiry', '-')

@@ -1,0 +1,10 @@
+================data from image================
+['PAKISTAN', 'National Identity Card', 'ISLAMIC REPUBLIC OF PAKISTAN', 'Name', 'Sundal Shamim', 'Father Nanr<', 'HazraAli', 'Gender', 'country 6f', 'F', 'Pakistan', 'IdentitrWasBero', 'Date of Birth', '37406-6558377-8', '05.09.1996', '92201', 'Date of Issue', 'pate of Expiry', '06.09.2017', '06.,09.2027', 'Holder', 'Signature', 'Stak']
+================extracted from data================
+('Name', 'Sundal Shamim')
+('Father Name', 'HazraAli')
+('Gender', 'F')
+('Identity Number', '37406-6558377-8')
+('Date Of Birth', '05.09.1996')
+('Date Of Issue', '06.09.2017')
+('Date Of Expiry', '06.,09.2027')

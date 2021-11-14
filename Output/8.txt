@@ -1,0 +1,10 @@
+================data from image================
+['PAKISTAN', 'National Identity Card', '1', 'Buvic Rlrjulic Ciptnistan', 'Nama', 'Afeera Bibi', "48'", 'Husband Nane', 'Muhammad Umar', 'Gendet', 'Country of', 'F', 'Pakistan', 'Identty Number', 'Date 0l Dirth', '31202-3199949-4', '21,12.1997', 'Date 0i IssLr', 'Datc of Expiry', '10,12.2018', '10.12.2028', 'Holdcr 5', 'signature', 'Stay']
+================extracted from data================
+('Name', 'Afeera Bibi')
+('Husband Name', 'Muhammad Umar')
+('Gender', 'F')
+('Identity Number', '31202-3199949-4')
+('Date Of Birth', '21,12.1997')
+('Date Of Issue', '10,12.2018')
+('Date Of Expiry', '10.12.2028')

@@ -1,0 +1,10 @@
+================data from image================
+['PAKISTAN', 'National Identity Card', 'ISLAMIC REPUBLIC OF PAKISTAN', 'Name', 'Abdul Rab Nishtar', 'Father Nare', 'Manzoar Ahmad Khan', 'Oe', 'Gender', 'Country of', 'M', 'United Arab Emirates', 'identity Number', 'Date 0f Birth', '32403-3334043-7', '01.01.1988', '0J', 'Date of Issue', 'Date of Expiry', '13.12.2012', '13.12.2019', 'Ftne', 'Holder $ Signature', 'Stay']
+================extracted from data================
+('Name', 'Abdul Rab Nishtar')
+('Father Name', 'Manzoar Ahmad Khan')
+('Gender', 'M')
+('Identity Number', '32403-3334043-7')
+('Date Of Birth', '01.01.1988')
+('Date Of Issue', '13.12.2012')
+('Date Of Expiry', '13.12.2019')

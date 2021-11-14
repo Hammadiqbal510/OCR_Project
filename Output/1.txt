@@ -1,0 +1,10 @@
+================data from image================
+['PAKISTAN', 'National Identity Card', 'ISLavic REPubLIC Of PAnisI', 'Name', 'Ayesha Khan', "Father's name", 'Asif Khan', 'Gender', 'Country of Stay', 'pakistan', 'Identity Number', 'Date of Birth', '67119-4340674-5', '03.11.1999', 'Date of Issue', 'Date of Expiry', '09.11.2017', '06.10.2024', 'Holder $ Signature']
+================extracted from data================
+('Name', 'Ayesha Khan')
+('Father Name', 'Asif Khan')
+('Gender', '-')
+('Identity Number', '67119-4340674-5')
+('Date Of Birth', '03.11.1999')
+('Date Of Issue', '09.11.2017')
+('Date Of Expiry', '06.10.2024')

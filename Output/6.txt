@@ -1,0 +1,10 @@
+================data from image================
+['PAKISTAN', 'National  Identity Card', 'Hen-Repmni', 'Ahmed Alt', 'Gathon Rn', 'Meer Muhanmad', 'Gende', 'Countnr Distz', 'Pakistar', 'Cadetl', 'Daic ofAth', '45302-0142259-1', '05.05.1937', 'pate', '20,03.2018', '20.03.2028', 'Hoijer $', 'enatuc']
+================extracted from data================
+('Name', '-')
+('Father Name', '-')
+('Gender', '-')
+('Identity Number', 'Hen-Repmni')
+('Date Of Birth', '05.05.1937')
+('Date Of Issue', '20,03.2018')
+('Date Of Expiry', '20.03.2028')

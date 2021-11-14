@@ -1,0 +1,10 @@
+================data from image================
+['PAKISTAN', 'National Identity Card', 'enn', 'Tassawar Azam Bajwa', 'Father %a', 'Muhammad Sharif', 'Cerder', 'Country of Stay', 'Pakistan', 'Identity Number', 'Date cf Birth', '31205-6774215-3', '25.12.1971', 'Date of lssue', 'Date of Expin', '01.01,2013', '01.01,2020', 'Holder $ Signature']
+================extracted from data================
+('Name', 'Tassawar Azam Bajwa')
+('Father Name', 'Muhammad Sharif')
+('Gender', '-')
+('Identity Number', '31205-6774215-3')
+('Date Of Birth', '25.12.1971')
+('Date Of Issue', '01.01,2013')
+('Date Of Expiry', '01.01,2020')
