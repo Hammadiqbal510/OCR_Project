@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  ocrmodels:
+    image: ocrmodels
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    command: ["sh", "-c", "pip install debugpy -t /tmp && python /tmp/debugpy --wait-for-client --listen 0.0.0.0:5678 -m easy_ocr.py "]
+    ports:
+      - 5678:5678
